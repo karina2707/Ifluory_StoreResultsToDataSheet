@@ -1,0 +1,14 @@
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\bin\Debug\LbFiveInterf.exe.config
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\bin\Debug\LbFiveInterf.exe
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\bin\Debug\LbFiveInterf.pdb
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\bin\Debug\System.Data.SqlClient.dll
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\bin\Debug\System.Data.SqlClient.xml
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\obj\Debug\LbFiveInterf.csproj.AssemblyReference.cache
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\obj\Debug\LbFiveInterf.Form1.resources
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\obj\Debug\LbFiveInterf.Properties.Resources.resources
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\obj\Debug\LbFiveInterf.csproj.GenerateResource.cache
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\obj\Debug\LbFiveInterf.csproj.CoreCompileInputs.cache
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\obj\Debug\LbFiveInterf.csproj.CopyComplete
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\obj\Debug\LbFiveInterf.exe
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\obj\Debug\LbFiveInterf.pdb
+C:\Users\500600\source\repos\LbFiveInterf\LbFiveInterf\obj\Debug\LbFiveInterf.csproj.ResolveComReference.cache
